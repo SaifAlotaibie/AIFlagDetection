@@ -37,16 +37,6 @@ git clone https://github.com/your-username/AIFlagDetection.git
 cd AIFlagDetection
 ```
 
-### Setup Nyckel API
-1. Go to [Nyckel](https://www.nyckel.com/) and create a function for flag detection.
-2. Obtain your `client_id`, `client_secret`, and `model_url`.
-3. Replace these values in the `script.py` file:
-    ```python
-    client_id = 'your_client_id'
-    client_secret = 'your_client_secret'
-    model_url = 'your_model_url'
-    ```
-
 ### Running the Project
 
 Run the script to start detecting flags from your live camera feed:
