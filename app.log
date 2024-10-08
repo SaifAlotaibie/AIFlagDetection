@@ -1,0 +1,280 @@
+2024-09-24 06:39:38,429 - INFO - \u062a\u0645 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0643\u0646 \u0628\u0646\u062c\u0627\u062d
+2024-09-24 06:39:39,682 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8635135101288859}
+2024-09-24 06:39:40,253 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8646640108776947}
+2024-09-24 06:39:40,895 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8646640108776947}
+2024-09-24 06:39:41,527 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8770889816134233}
+2024-09-24 06:39:42,400 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8748804008128401}
+2024-09-24 06:39:43,132 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8748804008128401}
+2024-09-24 06:39:44,255 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.876668688858125}
+2024-09-24 06:39:45,245 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8744108371828299}
+2024-09-24 06:39:46,584 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.7220668891038142}
+2024-09-24 06:39:47,606 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.49042801391408675}
+2024-09-24 06:39:47,607 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:39:48,905 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5527886404155982}
+2024-09-24 06:39:49,699 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9247864649515962}
+2024-09-24 06:39:49,699 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:39:50,566 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9658518939718453}
+2024-09-24 06:39:51,577 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8783906860690651}
+2024-09-24 06:39:52,481 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9541559744686325}
+2024-09-24 06:39:53,774 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9541559744686325}
+2024-09-24 06:39:55,084 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9261801124116938}
+2024-09-24 06:39:55,886 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8975309632681319}
+2024-09-24 06:39:56,859 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7013752655255441}
+2024-09-24 06:39:57,784 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.6695592184381571}
+2024-09-24 06:39:59,150 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.6514607068142798}
+2024-09-24 06:39:59,974 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8240741995503349}
+2024-09-24 06:40:01,315 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.4766528879350644}
+2024-09-24 06:40:02,473 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.44935554684953183}
+2024-09-24 06:40:03,564 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.5013507747686431}
+2024-09-24 06:40:03,564 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:40:04,928 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.41829731301614975}
+2024-09-24 06:44:22,033 - INFO - \u062a\u0645 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0643\u0646 \u0628\u0646\u062c\u0627\u062d
+2024-09-24 06:44:23,687 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7781823297328955}
+2024-09-24 06:44:23,688 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:44:25,108 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7405827275472363}
+2024-09-24 06:44:25,937 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7956441535168566}
+2024-09-24 06:44:27,414 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7040344059002683}
+2024-09-24 06:44:28,721 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8903011254120329}
+2024-09-24 06:44:29,678 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.5884060640964583}
+2024-09-24 06:44:30,592 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.5336753320158572}
+2024-09-24 06:44:31,673 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.6637953258718694}
+2024-09-24 06:44:32,762 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8955802188480491}
+2024-09-24 06:44:33,611 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8721187319364122}
+2024-09-24 06:44:34,457 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5998792481507942}
+2024-09-24 06:44:35,826 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5249424322671516}
+2024-09-24 06:44:37,088 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5628042328632809}
+2024-09-24 06:44:37,843 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8092444950618157}
+2024-09-24 06:44:38,607 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8130682818152}
+2024-09-24 06:44:39,363 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.82512129325188}
+2024-09-24 06:44:40,277 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.503804019518529}
+2024-09-24 06:44:40,278 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:44:41,247 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.503804019518529}
+2024-09-24 06:44:42,596 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.5172170272384627}
+2024-09-24 06:44:43,429 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8576261676235709}
+2024-09-24 06:44:44,726 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8576261676235709}
+2024-09-24 06:44:46,021 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8576261676235709}
+2024-09-24 06:44:46,827 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8674599882051738}
+2024-09-24 06:44:48,120 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8943440754681156}
+2024-09-24 06:44:48,998 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8943440754681156}
+2024-09-24 06:44:50,316 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9085615785283}
+2024-09-24 06:44:51,353 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8958284284527056}
+2024-09-24 06:44:52,272 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8983123960525218}
+2024-09-24 06:45:26,189 - INFO - \u062a\u0645 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0643\u0646 \u0628\u0646\u062c\u0627\u062d
+2024-09-24 06:45:27,288 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9187609097139912}
+2024-09-24 06:45:28,312 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.85796408398626}
+2024-09-24 06:45:29,403 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7233335430843922}
+2024-09-24 06:45:29,404 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:45:30,259 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8558014659390386}
+2024-09-24 06:45:31,607 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.6519306679225244}
+2024-09-24 06:45:31,608 - INFO - \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0646\u0634\u064a\u062f: anthems/saudi_arabia.mp3
+2024-09-24 06:45:32,886 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8099916157669225}
+2024-09-24 06:45:33,716 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7935227327709031}
+2024-09-24 06:45:34,611 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.7935227327709031}
+2024-09-24 06:45:35,883 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8792188695825063}
+2024-09-24 06:45:36,743 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6758750838899216}
+2024-09-24 06:45:38,071 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6758750838899216}
+2024-09-24 06:45:38,935 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5535056663027685}
+2024-09-24 06:45:40,202 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.49747913091287804}
+2024-09-24 06:45:41,054 - INFO - \u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062c: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5472600162492517}
+2024-09-25 04:25:59,524:INFO:Saudi anthem loaded successfully.
+2024-09-25 04:26:00,205:INFO:Access token obtained successfully.
+2024-09-25 04:26:00,206:INFO:Program started, capturing video...
+2024-09-25 04:26:02,383:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.39376557349750546}
+2024-09-25 04:26:02,383:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:02,383:INFO:New label detected: Not Saudi Symbol
+2024-09-25 04:26:03,443:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6156067613720845}
+2024-09-25 04:26:03,443:INFO:Detected label: Not Flag
+2024-09-25 04:26:03,443:INFO:New label detected: Not Flag
+2024-09-25 04:26:04,506:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5968320061263941}
+2024-09-25 04:26:04,506:INFO:Detected label: Not Flag
+2024-09-25 04:26:05,750:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5303584417143554}
+2024-09-25 04:26:05,750:INFO:Detected label: Not Flag
+2024-09-25 04:26:06,992:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8113841852095992}
+2024-09-25 04:26:06,992:INFO:Detected label: Not Flag
+2024-09-25 04:26:07,840:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6455782205055584}
+2024-09-25 04:26:07,840:INFO:Detected label: Not Flag
+2024-09-25 04:26:08,828:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8255396822952649}
+2024-09-25 04:26:08,828:INFO:Detected label: Not Flag
+2024-09-25 04:26:09,962:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.714075456321665}
+2024-09-25 04:26:09,962:INFO:Detected label: Not Flag
+2024-09-25 04:26:11,489:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8863169557997772}
+2024-09-25 04:26:11,489:INFO:Detected label: Not Flag
+2024-09-25 04:26:12,827:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.731240268296207}
+2024-09-25 04:26:12,827:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:12,827:INFO:New label detected: SaudiSymbol
+2024-09-25 04:26:14,570:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9281546622483818}
+2024-09-25 04:26:14,570:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:15,414:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.8500024608196886}
+2024-09-25 04:26:15,415:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:16,892:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.7321303327657225}
+2024-09-25 04:26:16,892:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:17,976:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.7321303327657225}
+2024-09-25 04:26:17,976:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:19,572:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.6385846401706455}
+2024-09-25 04:26:19,573:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:20,437:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5022576612854429}
+2024-09-25 04:26:20,437:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:20,437:INFO:New label detected: Not Saudi Symbol
+2024-09-25 04:26:21,890:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5022576612854429}
+2024-09-25 04:26:21,890:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:23,095:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5022576612854429}
+2024-09-25 04:26:23,095:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:23,908:INFO:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.5006766398066574}
+2024-09-25 04:26:23,908:INFO:Detected label: SaudiSymbol
+2024-09-25 04:26:23,908:INFO:New label detected: SaudiSymbol
+2024-09-25 04:26:25,297:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9863581646743105}
+2024-09-25 04:26:25,297:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:25,298:INFO:New label detected: Not Saudi Symbol
+2024-09-25 04:26:26,516:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9863581646743105}
+2024-09-25 04:26:26,517:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:27,319:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9728190714831243}
+2024-09-25 04:26:27,319:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:28,337:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9923565091476865}
+2024-09-25 04:26:28,338:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:29,326:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9956477995033304}
+2024-09-25 04:26:29,326:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:30,382:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9909068847380504}
+2024-09-25 04:26:30,382:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:31,335:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9810003326387949}
+2024-09-25 04:26:31,335:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:32,806:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9902330102227846}
+2024-09-25 04:26:32,806:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:33,871:INFO:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9902330102227846}
+2024-09-25 04:26:33,871:INFO:Detected label: Not Saudi Symbol
+2024-09-25 04:26:35,312:INFO:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9464861396905508}
+2024-09-25 04:26:35,312:INFO:Detected label: Saudi Arabia
+2024-09-25 04:26:35,312:INFO:New label detected: Saudi Arabia
+2024-09-25 04:26:35,313:INFO:Saudi flag detected.
+2024-09-25 04:26:35,313:INFO:Saudi anthem is playing.
+2024-09-25 04:26:36,803:INFO:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9900408165597447}
+2024-09-25 04:26:36,803:INFO:Detected label: Saudi Arabia
+2024-09-25 04:26:38,048:INFO:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9882973434592713}
+2024-09-25 04:26:38,048:INFO:Detected label: Saudi Arabia
+2024-09-25 04:26:39,479:INFO:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.987660439510411}
+2024-09-25 04:26:39,479:INFO:Detected label: Saudi Arabia
+2024-09-25 04:26:40,370:INFO:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.993560710059328}
+2024-09-25 04:26:40,370:INFO:Detected label: Saudi Arabia
+2024-09-25 04:26:41,872:INFO:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9763583407756614}
+2024-09-25 04:26:41,872:INFO:Detected label: Saudi Arabia
+2024-09-25 04:26:42,813:INFO:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.7809311073905771}
+2024-09-25 04:26:42,813:INFO:Detected label: Not Flag
+2024-09-25 04:26:42,814:INFO:New label detected: Not Flag
+2024-09-25 04:26:42,815:INFO:Exiting program.
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9618557410260395}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9584135834431308}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9732465047575327}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9739955134253452}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9925788188880061}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9792264118023197}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9873514283961159}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.988945937051296}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8762925865576783}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9112407828220365}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.7648189577518063}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8341919233839183}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9642985231899568}
+ERROR:root:Error in sending to Nyckel: HTTPSConnectionPool(host='www.nyckel.com', port=443): Read timed out. (read timeout=5)
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.4935733122713802}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8778477990423124}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8778477990423124}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.7124045600292573}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.7124045600292573}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6798257782500859}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7563975688067804}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7563975688067804}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7995136851185631}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.6853099542416876}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7749559786936647}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7749559786936647}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.772691307640744}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.8874123704957542}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.9136157800912134}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7773982166689638}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.6644673913692912}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7739702757947478}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.6542132320173983}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.8094954869837653}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.7630389383934394}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.8969153409918348}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.8370304422012584}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.8434918883515203}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.8442437404219577}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.7251016856688107}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5059632970814867}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.5279938030151382}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.7303413886982876}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.7872305003626574}
+INFO:root:Model Response: {"labelName":"Not Saudi Symbol","labelId":"label_f26m7k5azk29kba4","confidence":0.5543221449351182}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.955835671229396}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.8969958910467069}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.5717024808339725}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9753492498299658}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9598834059176966}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9950654912710273}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9972856894122514}
+INFO:root:Model Response: {"labelName":"Saudi Arabia","labelId":"label_lp3yc3duwblgai4e","confidence":0.9900848840117712}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9889042687217799}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9836997625314569}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9979829019815467}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9976577003573942}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9987065271609867}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9966968892514484}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9781059943284348}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9942549903553386}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5067025899189413}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6687071469015669}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8480039460487524}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5202754194424254}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.504661931036438}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8301983729649397}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8248626052369992}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9466592398309636}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9555542498293067}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.94557931584222}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9556647596917496}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9121030950987661}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9112262715556148}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9535524065230424}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9535524065230424}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9535524065230424}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9411438198439128}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9189470648057461}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9215571409022667}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9283411071812275}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9130987656558613}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.921497371392561}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9457572181161575}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9578841607081093}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.7011041212320458}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.6510287851595885}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.7786360341243169}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.8436469018894719}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9948871025949113}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9985780330495936}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.996279365751699}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9789291701537605}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9916173940287365}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9966597812322708}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9929902805774832}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9924886111567265}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9852715771494237}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9690453457364901}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.9660636728797621}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.929047092156258}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.6729227079712596}
+INFO:root:Model Response: {"labelName":"UAE","labelId":"label_5066qkypt83bmxqj","confidence":0.2577494470783187}
+INFO:root:Model Response: {"labelName":"UAE","labelId":"label_5066qkypt83bmxqj","confidence":0.2884484056043492}
+INFO:root:Model Response: {"labelName":"kuwait","labelId":"label_zjywwgipiiqc93fl","confidence":0.5623710873838215}
+INFO:root:Model Response: {"labelName":"kuwait","labelId":"label_zjywwgipiiqc93fl","confidence":0.32769343578779847}
+INFO:root:Model Response: {"labelName":"UAE","labelId":"label_5066qkypt83bmxqj","confidence":0.7128891088131617}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9620093382642773}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9811957181975851}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6981526733096557}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5599901868949889}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.5670000146984043}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.6865814930037736}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8391115578668229}
+INFO:root:Model Response: {"labelName":"SaudiSymbol","labelId":"label_gd00feis7jzqnydl","confidence":0.34865920573124565}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8144971106511119}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.8945736741066963}
+INFO:root:Model Response: {"labelName":"Not Flag","labelId":"label_uly6ymeiftpcre0e","confidence":0.9417975948373265}
