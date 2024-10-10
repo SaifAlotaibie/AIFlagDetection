@@ -98,21 +98,21 @@ def draw_text(frame, text, position, font_scale=1, color=(255, 255, 255)):
 
 def update_display(frame, label_name):
     if label_name == 'SaudiSymbol':
-        draw_text(frame, "Saudi Symbol!", (50, 50), color=(255, 255, 255))  # باللون الأبيض
+        draw_text(frame, "Saudi Symbol!", (50, 50), color=(255, 255, 255))  
         saudi_info = show_saudi_info()
         for idx, line in enumerate(saudi_info):
-            draw_text(frame, line, (50, 100 + (idx * 30)))  # المعلومات تبدأ من (50, 100)
+            draw_text(frame, line, (50, 100 + (idx * 30))) 
     elif label_name == 'Not Saudi Symbol':
-        draw_text(frame, "It's not Saudi symbol!", (50, 50), color=(0, 0, 255))  # باللون الأحمر
+        draw_text(frame, "It's not Saudi symbol!", (50, 50), color=(0, 0, 255)) 
     elif label_name == 'Cant recognize the flag':
-        draw_text(frame, "Can't recognize the flag!", (50, 50), color=(0, 0, 255))  # باللون الأحمر
+        draw_text(frame, "Can't recognize the flag!", (50, 50), color=(0, 0, 255))  
     elif label_name:
-        draw_text(frame, f"{label_name}!", (50, 50), color=(255, 255, 255))  # باقي النصوص باللون الأبيض
+        draw_text(frame, f"{label_name}!", (50, 50), color=(255, 255, 255)) 
         info_text = show_country_info(label_name)
         if info_text:
             draw_text(frame, info_text, (50, 100))
     else:
-        draw_text(frame, "Can't recognize this flag!", (50, 50), color=(0, 0, 255))  # باللون الأحمر
+        draw_text(frame, "Can't recognize this flag!", (50, 50), color=(0, 0, 255)) 
 
 
 def main():
